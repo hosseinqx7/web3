@@ -1,4 +1,4 @@
-Web3 Ideas 💡
+hWeb3 Ideas 💡
 A personal repo where I write down random thoughts and ideas about Web3, crypto, and the future of the internet.
 
 Ideas
@@ -11,3 +11,4 @@ Sometimes I get ideas while reading about crypto.
 This is a place to capture them so I don’t forget and maybe improve them later.
 8585585
 dfdf
+ghfgh
