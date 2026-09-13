@@ -15,5 +15,3 @@ dfdf
 dddklkllk
 dfd
 sdsd
-sdsd
-dfdfsdsd
