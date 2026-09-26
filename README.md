@@ -10,8 +10,3 @@ Why this repo?
 Sometimes I get ideas while reading about crypto.
 This is a place to capture them so I don’t forget and maybe improve them later.
 
-dddd
-dfdf
-ddd
-fgfdg
-klkl
